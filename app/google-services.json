@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "68261216705",
+    "firebase_url": "https://mvplogin-d3174.firebaseio.com",
+    "project_id": "mvplogin-d3174",
+    "storage_bucket": "mvplogin-d3174.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68261216705:android:3c38b7f447f38213",
+        "android_client_info": {
+          "package_name": "abhishek.com.mvp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68261216705-t2ng98lfn89ktssoms6h27ms43s0oll5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "abhishek.com.mvp",
+            "certificate_hash": "95B40A09130025CB892D392B5C3C6708D46FA319"
+          }
+        },
+        {
+          "client_id": "68261216705-gvg7lsitqh3dmftj4u0ictmqln5qg5v3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU8NOz6Gxx0RyTPz1EPC2-LsSKwUiZ8-U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68261216705-gvg7lsitqh3dmftj4u0ictmqln5qg5v3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

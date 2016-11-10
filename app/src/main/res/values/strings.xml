@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mvp</string>
+    <string name="username_hint">Enter username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_btn_text">Login</string>
+    <string name="google_login">Google Login</string>
+    <string name="navigation_view_header_title">Welcome</string>
+</resources>
